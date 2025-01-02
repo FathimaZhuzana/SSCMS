@@ -178,7 +178,7 @@
                         <i class="fa fa-desktop float-right"></i>
                         <h6 class="text-muted text-uppercase m-b-20">Total Desks</h6>
                         <h2 class="m-b-20" data-plugin="counterup">7</h2>
-                        <a href="./manage-desks.php"><span class="badge badge-primary"> View Detail </span></a>
+                        <a href="manage-desks.php"><span class="badge badge-primary"> View Detail </span></a>
                     </div>
                 </div>
 

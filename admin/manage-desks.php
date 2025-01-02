@@ -225,9 +225,9 @@
                                     <td>
                                         2022-12-04 16:08:59
                                     </td>
-                                    <td><a href="./edit-desk.php"
+                                    <td><a href="edit-desk.php"
                                             class="btn btn-primary">Edit </a> | <a
-                                            href="./manage-desks.php"
+                                            href="manage-desks.php"
                                             onclick="return confirm('Do you really want to Delete ?');"
                                             class="btn btn-danger btn-xs">Delete</i></a></td>
 
