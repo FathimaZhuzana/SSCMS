@@ -108,7 +108,7 @@
                     <!-- Navigation Menu-->
                     <ul class="navigation-menu">
                         <li>
-                            <a href="./dashboard.html"><i class="zmdi zmdi-view-dashboard"></i> <span> Dashboard </span>
+                            <a href="./dashboard.php"><i class="zmdi zmdi-view-dashboard"></i> <span> Dashboard </span>
                             </a>
                         </li>
 
