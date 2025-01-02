@@ -37,7 +37,7 @@
 
                 <!-- LOGO -->
                 <div class="topbar-left">
-                    <a href="./dashboard.html" class="logo">
+                    <a href="./dashboard.php" class="logo">
 
                         <span>Student Study Center Management System</span>
                     </a>
