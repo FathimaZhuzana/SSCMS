@@ -141,7 +141,7 @@
                                 Unassigned
                                 Desk </a></li>
 
-                        <li> <a href="./report.html"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
+                        <li> <a href="./report.php"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
 
 
 
