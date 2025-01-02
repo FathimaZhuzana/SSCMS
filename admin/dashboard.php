@@ -72,7 +72,7 @@
                                 </div>
 
                                 <!-- item-->
-                                <a href="./profile.html" class="dropdown-item notify-item">
+                                <a href="./profile.php" class="dropdown-item notify-item">
                                     <i class="zmdi zmdi-account-circle"></i> <span>Profile</span>
                                 </a>
 
@@ -135,11 +135,11 @@
 
                             </ul>
                         </li>
-                        <li> <a href="./student-list.html"><i class="zmdi zmdi-collection-text"></i> Assigned /
+                        <li> <a href="./student-list.php"><i class="zmdi zmdi-collection-text"></i> Assigned /
                                 Unassigned
                                 Desk </a></li>
 
-                        <li> <a href="./report.html"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
+                        <li> <a href="./report.php"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
 
 
 
