@@ -19,7 +19,7 @@
 
                 <!-- LOGO -->
                 <div class="topbar-left">
-                    <a href="./dashboard.html" class="logo">
+                    <a href="./dashboard.php" class="logo">
 
                         <span>Student Study Center Management System</span>
                     </a>
@@ -62,11 +62,11 @@
                                 </a>
 
                                 <!-- item-->
-                                <a href="./change-password.html" class="dropdown-item notify-item">
+                                <a href="./change-password.php" class="dropdown-item notify-item">
                                     <i class="zmdi zmdi-settings"></i> <span>Settings</span>
                                 </a>
 
-                                <a href="./logout.html" class="dropdown-item notify-item">
+                                <a href="./logout.php" class="dropdown-item notify-item">
                                     <i class="zmdi zmdi-power"></i> <span>Logout</span>
                                 </a>
 
@@ -89,7 +89,7 @@
                     <!-- Navigation Menu-->
                     <ul class="navigation-menu">
                         <li>
-                            <a href="./dashboard.html"><i class="zmdi zmdi-view-dashboard"></i> <span> Dashboard </span>
+                            <a href="./dashboard.php"><i class="zmdi zmdi-view-dashboard"></i> <span> Dashboard </span>
                             </a>
                         </li>
 
@@ -99,8 +99,8 @@
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
-                                        <li><a href="./add-desk.html">Add </a></li>
-                                        <li><a href="./manage-desks.html">Manage </a></li>
+                                        <li><a href="./add-desk.php">Add </a></li>
+                                        <li><a href="./manage-desks.php">Manage </a></li>
                                     </ul>
                                 </li>
 
@@ -113,18 +113,18 @@
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
-                                        <li><a href="./add-student.html">Add </a></li>
-                                        <li><a href="./manage-students.html">Manage </a></li>
+                                        <li><a href="./add-student.php">Add </a></li>
+                                        <li><a href="./manage-students.php">Manage </a></li>
                                     </ul>
                                 </li>
 
                             </ul>
                         </li>
-                        <li> <a href="./student-list.html"><i class="zmdi zmdi-collection-text"></i> Assigned /
+                        <li> <a href="./student-list.php"><i class="zmdi zmdi-collection-text"></i> Assigned /
                                 Unassigned
                                 Desk </a></li>
 
-                        <li> <a href="./report.html"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
+                        <li> <a href="./report.php"><i class="zmdi zmdi-collection-text"></i> Report </a></li>
 
 
 

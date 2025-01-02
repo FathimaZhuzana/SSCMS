@@ -11,7 +11,7 @@
         function checkDeskAvailability() {
             $("#loaderIcon").show();
             jQuery.ajax({
-                url: "check_availability.html",
+                url: "check_availability.php",
                 data: 'dno=' + $("#desknumber").val(),
                 type: "POST",
                 success: function (data) {
@@ -36,7 +36,7 @@
 
                 <!-- LOGO -->
                 <div class="topbar-left">
-                    <a href="./dashboard.html" class="logo">
+                    <a href="./dashboard.php" class="logo">
 
                         <span>Student Study Center Management System</span>
                     </a>
@@ -116,8 +116,8 @@
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
-                                        <li><a href="./add-desk.html">Add </a></li>
-                                        <li><a href="./manage-desks.html">Manage </a></li>
+                                        <li><a href="./add-desk.php">Add </a></li>
+                                        <li><a href="./manage-desks.php">Manage </a></li>
                                     </ul>
                                 </li>
 
@@ -130,14 +130,14 @@
                             <ul class="submenu megamenu">
                                 <li>
                                     <ul>
-                                        <li><a href="./add-student.html">Add </a></li>
-                                        <li><a href="./manage-students.html">Manage </a></li>
+                                        <li><a href="./add-student.php">Add </a></li>
+                                        <li><a href="./manage-students.php">Manage </a></li>
                                     </ul>
                                 </li>
 
                             </ul>
                         </li>
-                        <li> <a href="./student-list.html"><i class="zmdi zmdi-collection-text"></i> Assigned /
+                        <li> <a href="./student-list.php"><i class="zmdi zmdi-collection-text"></i> Assigned /
                                 Unassigned
                                 Desk </a></li>
 

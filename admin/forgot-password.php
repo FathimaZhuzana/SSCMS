@@ -34,7 +34,7 @@
 
         <div class="account-bg">
             <div class="card-box mb-0">
-                <strong style="padding-top: 30px;"><a href="../index.html" class="text-muted"><i
+                <strong style="padding-top: 30px;"><a href="../index.php" class="text-muted"><i
                             class="fa fa-home m-r-5"></i> Back Home!!</a> </strong>
                 <div class="text-center m-t-20">
                     <h6>Student Study Center Mananagement System </h6>
@@ -78,7 +78,7 @@
                             <div class="col-12">
                                 <div class="checkbox checkbox-custom">
                                     <div class="col-lg-12 text-center mt-5">
-                                        <p style="color: red">Do you have an account ?<a href="./index.html"> SIGN IN</a>
+                                        <p style="color: red">Do you have an account ?<a href="./index.php"> SIGN IN</a>
                                         </p>
                                     </div>
                                     </label>

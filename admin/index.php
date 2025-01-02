@@ -25,7 +25,7 @@
 
         <div class="account-bg">
             <div class="card-box mb-0">
-                <strong style="padding-top: 30px;"><a href="../index.html" class="text-muted"><i
+                <strong style="padding-top: 30px;"><a href="../index.php" class="text-muted"><i
                             class="fa fa-home m-r-5"></i> Back Home!!</a> </strong>
                 <div class="text-center m-t-20">
                     <h6>Student Study Center Mananagement System </h6>
@@ -63,7 +63,7 @@
 
                         <div class="form-group row m-t-30 mb-0">
                             <div class="col-12">
-                                <a href="./forgot-password.html" class="text-muted"><i class="fa fa-lock m-r-5"></i>
+                                <a href="./forgot-password.php" class="text-muted"><i class="fa fa-lock m-r-5"></i>
                                     Forgot your password?</a>
                             </div>
                         </div>
